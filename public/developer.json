@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Rick Astley",
+        "age": 49,
+        "role": "Former Best Rickroller & developer",
+        "rating": 5,
+        "salary": 35,
+        "img": "https://static.techspot.com/images2/news/ts3_thumbs/2021/07/2021-07-29-ts3_thumbs-503.jpg",
+        "country": "US"
+    },
+    {
+        "name": "Joma",
+        "age": 27,
+        "role": "Ex-Facebok, Ex-google, Ex-Microsoft Developer",
+        "rating": 5,
+        "salary": 250,
+        "img": "https://www.netliteracy.org/wp-content/uploads/2020/06/Capture-38.png",
+        "country": "Japan"
+    },
+    {
+        "name": "Clement Mihalescu",
+        "age": 28,
+        "role": "CEO of AlgoExpert",
+        "rating": 5,
+        "salary": 74,
+        "img": "https://yt3.ggpht.com/ytc/AKedOLRhv8ie_8iIxaL7uSIp5OVbZCxus2at2O7q5fowxCE=s900-c-k-c0x00ffffff-no-rj",
+        "country": "USA"
+    },
+    {
+        "name": "Rafeh Qazi",
+        "age": 25,
+        "role": "CEO of clever programemr",
+        "rating": 4,
+        "salary": 47,
+        "img": "https://images.squarespace-cdn.com/content/v1/5ac67e393917eecb6d63a95b/1522964251261-NAPO9X6Z280PYR4RBUR9/wallyspizza.jpg?format=500w",
+        "country": "Pakistan"
+    },
+    {
+        "name": "Zaid Sabeh",
+        "age": 55,
+        "role": "senior developer & cyber analyst",
+        "rating": 4,
+        "salary": 100,
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91K-l4hLFJL._SX450_.jpg",
+        "country": "UAE"
+    },
+    {
+        "name": "Elon Musk",
+        "age": 45,
+        "role": "CEO of SpaceX & Tesla",
+        "rating": 5,
+        "salary": 10000,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Elon_Musk_Royal_Society_%28crop1%29.jpg",
+        "country": "US"
+    },
+    {
+        "name": "Grimes Space -EX",
+        "age": 26,
+        "role": "Ex of Elon Musk/ singer",
+        "rating": 3,
+        "salary": 90,
+        "img": "https://pyxis.nymag.com/v1/imgs/c72/241/4b6223b48aceee4e793495c182c25bd6ec-grimes-elon-musk.rsquare.w1200.jpg",
+        "country": "UK"
+    },
+    {
+        "name": "TechLead",
+        "age": 33,
+        "role": "Ex-Facebok, Ex-google Developer",
+        "rating": 5,
+        "salary": 300,
+        "img": "https://obpedia.com/wp-content/uploads/2021/06/patrick-shyu-techlead.jpg",
+        "country": "Japan"
+    },
+    {
+        "name": "AlgoGirl",
+        "age": 36,
+        "role": " Model, successfull advertiser & no prior experiance of coding ",
+        "rating": 1,
+        "salary": 15,
+        "img": "https://i.ytimg.com/vi/eGE-tFalwpA/maxresdefault.jpg",
+        "country": "US"
+    },
+    {
+        "name": "Tim White",
+        "age": 23,
+        "role": "Youtuber & developer & problem solver",
+        "rating": 5,
+        "salary": 120,
+        "img": "https://assets.algoexpert.io/gea709e8552-prod/dist/images/tim.noinline.jpg?08da8bfa",
+        "country": "UK"
+    }
+]

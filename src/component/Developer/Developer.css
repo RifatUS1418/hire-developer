@@ -1,0 +1,43 @@
+.developer{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(240, 240, 236);
+    line-height: 12px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    font-weight:400;
+}
+
+.developer img{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.card-img{
+    text-align: center;
+}
+
+.name{
+    font-weight: bold;
+}
+
+.btn-select{
+    width: 45%;
+    padding: 7px;
+    background-color: lightgray;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.icon{
+    text-align: center;
+    padding: 10px;
+}
+
+.fab{
+    font-size: 30px;
+    padding: 10px;
+}
